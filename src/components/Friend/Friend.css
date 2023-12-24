@@ -1,0 +1,34 @@
+.friends {
+    margin-right: 5px;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    margin-bottom: 12px;
+}
+.img {
+    height: 100px;
+    width: 100px;
+    margin-top: 28px;
+}
+.info{
+    margin-left: 10px;
+}
+.friend-zone{
+    display: flex;
+}
+.friend-zone button {
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    font-size: 17px;
+    margin-top: 27%;
+    margin-left: 56px;
+    cursor: pointer;
+    background-color: #f0c14b;
+    border-radius: 3px;
+    border: 1px solid gray;
+}
